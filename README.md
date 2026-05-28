@@ -1,3 +1,4 @@
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 # Apartment Reservation Database System
 
 ## Overview
@@ -97,4 +98,9 @@ The system was designed using a full modeling approach:
 
 Academic project based on a **real-world business scenario**, focused on designing a reliable and scalable database solution.
 
-This project is for portfolio purposes only.
+## Author
+
+Created and maintained by:
+- awie-dev (2025)
+- GitHub: https://github.com/awie-dev
+
